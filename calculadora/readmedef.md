@@ -1,6 +1,6 @@
 # 🧮 Calculadora en Python
 
-Este proyecto es una calculadora simple hecha en Python que permite realizar operaciones básicas entre dos números enteros positivos. Incluye validaciones para evitar errores comunes como introducir números negativos, decimales o intentar dividir entre cero.
+Mi proyecto es una calculadora simple hecha en Python que incluye tests unitarios de las operaciones matématica simples y que permite realizar operaciones básicas entre dos números enteros positivos. Incluye validaciones para evitar errores comunes como introducir números negativos, decimales o intentar dividir entre cero.
 
 ---
 
